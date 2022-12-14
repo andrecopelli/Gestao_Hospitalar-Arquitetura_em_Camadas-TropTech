@@ -1,0 +1,48 @@
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar\bin\Debug\net6.0\GestaoHospilar.deps.json
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar\bin\Debug\net6.0\GestaoHospilar.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar\bin\Debug\net6.0\GestaoHospilar.pdb
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar\obj\Debug\net6.0\GestaoHospilar.csproj.AssemblyReference.cache
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar\obj\Debug\net6.0\GestaoHospilar.GeneratedMSBuildEditorConfig.editorconfig
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar\obj\Debug\net6.0\GestaoHospilar.AssemblyInfoInputs.cache
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar\obj\Debug\net6.0\GestaoHospilar.AssemblyInfo.cs
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar\obj\Debug\net6.0\GestaoHospilar.csproj.CoreCompileInputs.cache
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar\obj\Debug\net6.0\GestaoHospilar.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar\obj\Debug\net6.0\refint\GestaoHospilar.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar\obj\Debug\net6.0\GestaoHospilar.pdb
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar\obj\Debug\net6.0\ref\GestaoHospilar.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar\bin\Debug\net6.0\GestaoHospilar.deps.json
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar\bin\Debug\net6.0\GestaoHospilar.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar\bin\Debug\net6.0\GestaoHospilar.pdb
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar\obj\Debug\net6.0\GestaoHospilar.csproj.AssemblyReference.cache
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar\obj\Debug\net6.0\GestaoHospilar.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar\obj\Debug\net6.0\GestaoHospilar.AssemblyInfoInputs.cache
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar\obj\Debug\net6.0\GestaoHospilar.AssemblyInfo.cs
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar\obj\Debug\net6.0\GestaoHospilar.csproj.CoreCompileInputs.cache
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar\obj\Debug\net6.0\GestaoHospilar.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar\obj\Debug\net6.0\refint\GestaoHospilar.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar\obj\Debug\net6.0\GestaoHospilar.pdb
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar\obj\Debug\net6.0\ref\GestaoHospilar.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar\bin\Debug\net6.0\GestaoHospilar.deps.json
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar\bin\Debug\net6.0\GestaoHospilar.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar\bin\Debug\net6.0\GestaoHospilar.pdb
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar\obj\Debug\net6.0\GestaoHospilar.csproj.AssemblyReference.cache
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar\obj\Debug\net6.0\GestaoHospilar.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar\obj\Debug\net6.0\GestaoHospilar.AssemblyInfoInputs.cache
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar\obj\Debug\net6.0\GestaoHospilar.AssemblyInfo.cs
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar\obj\Debug\net6.0\GestaoHospilar.csproj.CoreCompileInputs.cache
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar\obj\Debug\net6.0\GestaoHospilar.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar\obj\Debug\net6.0\refint\GestaoHospilar.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar\obj\Debug\net6.0\GestaoHospilar.pdb
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar\obj\Debug\net6.0\ref\GestaoHospilar.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar\bin\Debug\net6.0\GestaoHospilar.deps.json
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar\bin\Debug\net6.0\GestaoHospilar.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar\bin\Debug\net6.0\GestaoHospilar.pdb
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar\obj\Debug\net6.0\GestaoHospilar.csproj.AssemblyReference.cache
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar\obj\Debug\net6.0\GestaoHospilar.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar\obj\Debug\net6.0\GestaoHospilar.AssemblyInfoInputs.cache
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar\obj\Debug\net6.0\GestaoHospilar.AssemblyInfo.cs
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar\obj\Debug\net6.0\GestaoHospilar.csproj.CoreCompileInputs.cache
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar\obj\Debug\net6.0\GestaoHospilar.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar\obj\Debug\net6.0\refint\GestaoHospilar.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar\obj\Debug\net6.0\GestaoHospilar.pdb
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar\obj\Debug\net6.0\ref\GestaoHospilar.dll

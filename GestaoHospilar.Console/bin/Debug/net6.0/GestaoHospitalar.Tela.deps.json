@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "GestaoHospitalar.Tela/1.0.0": {
+        "dependencies": {
+          "GestaoHospilar": "1.0.0"
+        },
+        "runtime": {
+          "GestaoHospitalar.Tela.dll": {}
+        }
+      },
+      "GestaoHospilar/1.0.0": {
+        "runtime": {
+          "GestaoHospilar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GestaoHospitalar.Tela/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GestaoHospilar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

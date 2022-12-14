@@ -1,0 +1,408 @@
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\testhost.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\testhost.exe
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\nunit.engine.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\nunit.engine.api.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\nunit.engine.core.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\testcentric.engine.metadata.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\GestaoHospilar.Teste.deps.json
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\GestaoHospilar.Teste.runtimeconfig.json
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\GestaoHospilar.Teste.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\GestaoHospilar.Teste.pdb
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\Newtonsoft.Json.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\NuGet.Frameworks.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\nunit.framework.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\obj\Debug\net6.0\GestaoHospilar.Teste.csproj.AssemblyReference.cache
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\obj\Debug\net6.0\GestaoHospilar.Teste.GeneratedMSBuildEditorConfig.editorconfig
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\obj\Debug\net6.0\GestaoHospilar.Teste.AssemblyInfoInputs.cache
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\obj\Debug\net6.0\GestaoHospilar.Teste.AssemblyInfo.cs
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\obj\Debug\net6.0\GestaoHospilar.Teste.csproj.CoreCompileInputs.cache
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\obj\Debug\net6.0\GestaoHospilar.Teste.csproj.CopyComplete
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\obj\Debug\net6.0\GestaoHospilar.Teste.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\obj\Debug\net6.0\refint\GestaoHospilar.Teste.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\obj\Debug\net6.0\GestaoHospilar.Teste.pdb
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\obj\Debug\net6.0\GestaoHospilar.Teste.genruntimeconfig.cache
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\obj\Debug\net6.0\ref\GestaoHospilar.Teste.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\CoverletSourceRootsMapping
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\GestaoHospilar.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\GestaoHospilar.pdb
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\CoverletSourceRootsMapping
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\testhost.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\testhost.exe
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\nunit.engine.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\nunit.engine.api.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\nunit.engine.core.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\testcentric.engine.metadata.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\GestaoHospilar.Teste.deps.json
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\GestaoHospilar.Teste.runtimeconfig.json
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\GestaoHospilar.Teste.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\GestaoHospilar.Teste.pdb
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\Newtonsoft.Json.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\NuGet.Frameworks.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\nunit.framework.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\GestaoHospilar.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\GestaoHospilar.pdb
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\obj\Debug\net6.0\GestaoHospilar.Teste.csproj.AssemblyReference.cache
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\obj\Debug\net6.0\GestaoHospilar.Teste.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\obj\Debug\net6.0\GestaoHospilar.Teste.AssemblyInfoInputs.cache
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\obj\Debug\net6.0\GestaoHospilar.Teste.AssemblyInfo.cs
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\obj\Debug\net6.0\GestaoHospilar.Teste.csproj.CoreCompileInputs.cache
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\obj\Debug\net6.0\GestaoHospilar.Teste.csproj.CopyComplete
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\obj\Debug\net6.0\GestaoHospilar.Teste.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\obj\Debug\net6.0\refint\GestaoHospilar.Teste.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\obj\Debug\net6.0\GestaoHospilar.Teste.pdb
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\obj\Debug\net6.0\GestaoHospilar.Teste.genruntimeconfig.cache
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Teste\obj\Debug\net6.0\ref\GestaoHospilar.Teste.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\CoverletSourceRootsMapping
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\testhost.exe
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\testhost.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\nunit.engine.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\nunit.engine.api.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\nunit.engine.core.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\testcentric.engine.metadata.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\GestaoHospilar.Teste.deps.json
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\GestaoHospilar.Teste.runtimeconfig.json
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\GestaoHospilar.Teste.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\GestaoHospilar.Teste.pdb
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\Newtonsoft.Json.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\NuGet.Frameworks.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\nunit.framework.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\GestaoHospilar.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\GestaoHospilar.pdb
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\obj\Debug\net6.0\GestaoHospilar.Teste.csproj.AssemblyReference.cache
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\obj\Debug\net6.0\GestaoHospilar.Teste.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\obj\Debug\net6.0\GestaoHospilar.Teste.AssemblyInfoInputs.cache
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\obj\Debug\net6.0\GestaoHospilar.Teste.AssemblyInfo.cs
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\obj\Debug\net6.0\GestaoHospilar.Teste.csproj.CoreCompileInputs.cache
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\obj\Debug\net6.0\GestaoHospilar.Teste.csproj.CopyComplete
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\obj\Debug\net6.0\GestaoHospilar.Teste.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\obj\Debug\net6.0\refint\GestaoHospilar.Teste.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\obj\Debug\net6.0\GestaoHospilar.Teste.pdb
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\obj\Debug\net6.0\GestaoHospilar.Teste.genruntimeconfig.cache
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar\GestaoHospitalar\GestaoHospilar.Teste\obj\Debug\net6.0\ref\GestaoHospilar.Teste.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\CoverletSourceRootsMapping
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\testhost.exe
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\testhost.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\nunit.engine.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\nunit.engine.api.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\nunit.engine.core.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\testcentric.engine.metadata.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\GestaoHospilar.Teste.deps.json
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\GestaoHospilar.Teste.runtimeconfig.json
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\GestaoHospilar.Teste.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\GestaoHospilar.Teste.pdb
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\Newtonsoft.Json.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\NuGet.Frameworks.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\nunit.framework.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\GestaoHospilar.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\bin\Debug\net6.0\GestaoHospilar.pdb
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\obj\Debug\net6.0\GestaoHospilar.Teste.csproj.AssemblyReference.cache
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\obj\Debug\net6.0\GestaoHospilar.Teste.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\obj\Debug\net6.0\GestaoHospilar.Teste.AssemblyInfoInputs.cache
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\obj\Debug\net6.0\GestaoHospilar.Teste.AssemblyInfo.cs
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\obj\Debug\net6.0\GestaoHospilar.Teste.csproj.CoreCompileInputs.cache
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\obj\Debug\net6.0\GestaoHospilar.Teste.csproj.CopyComplete
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\obj\Debug\net6.0\GestaoHospilar.Teste.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\obj\Debug\net6.0\refint\GestaoHospilar.Teste.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\obj\Debug\net6.0\GestaoHospilar.Teste.pdb
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\obj\Debug\net6.0\GestaoHospilar.Teste.genruntimeconfig.cache
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Teste\obj\Debug\net6.0\ref\GestaoHospilar.Teste.dll

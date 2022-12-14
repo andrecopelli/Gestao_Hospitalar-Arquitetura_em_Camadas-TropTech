@@ -1,0 +1,51 @@
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Console\bin\Debug\net6.0\GestaoHospitalar.Tela.exe
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Console\bin\Debug\net6.0\GestaoHospitalar.Tela.deps.json
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Console\bin\Debug\net6.0\GestaoHospitalar.Tela.runtimeconfig.json
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Console\bin\Debug\net6.0\GestaoHospitalar.Tela.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Console\bin\Debug\net6.0\GestaoHospitalar.Tela.pdb
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Console\obj\Debug\net6.0\GestaoHospitalar.Tela.csproj.AssemblyReference.cache
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Console\obj\Debug\net6.0\GestaoHospitalar.Tela.GeneratedMSBuildEditorConfig.editorconfig
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Console\obj\Debug\net6.0\GestaoHospitalar.Tela.AssemblyInfoInputs.cache
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Console\obj\Debug\net6.0\GestaoHospitalar.Tela.AssemblyInfo.cs
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Console\obj\Debug\net6.0\GestaoHospitalar.Tela.csproj.CoreCompileInputs.cache
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Console\obj\Debug\net6.0\GestaoHospitalar.Tela.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Console\obj\Debug\net6.0\refint\GestaoHospitalar.Tela.dll
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Console\obj\Debug\net6.0\GestaoHospitalar.Tela.pdb
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Console\obj\Debug\net6.0\GestaoHospitalar.Tela.genruntimeconfig.cache
+c:\Projects\TropTech\Modulo2\LicaoRevisao02\GestaoHospitalar\GestaoHospilar.Console\obj\Debug\net6.0\ref\GestaoHospitalar.Tela.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Console\bin\Debug\net6.0\GestaoHospitalar.Tela.exe
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Console\bin\Debug\net6.0\GestaoHospitalar.Tela.deps.json
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Console\bin\Debug\net6.0\GestaoHospitalar.Tela.runtimeconfig.json
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Console\bin\Debug\net6.0\GestaoHospitalar.Tela.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Console\bin\Debug\net6.0\GestaoHospitalar.Tela.pdb
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Console\bin\Debug\net6.0\GestaoHospilar.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Console\bin\Debug\net6.0\GestaoHospilar.pdb
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Console\obj\Debug\net6.0\GestaoHospitalar.Tela.csproj.AssemblyReference.cache
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Console\obj\Debug\net6.0\GestaoHospitalar.Tela.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Console\obj\Debug\net6.0\GestaoHospitalar.Tela.AssemblyInfoInputs.cache
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Console\obj\Debug\net6.0\GestaoHospitalar.Tela.AssemblyInfo.cs
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Console\obj\Debug\net6.0\GestaoHospitalar.Tela.csproj.CoreCompileInputs.cache
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Console\obj\Debug\net6.0\GestaoHospitalar.Tela.csproj.CopyComplete
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Console\obj\Debug\net6.0\GestaoHospitalar.Tela.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Console\obj\Debug\net6.0\refint\GestaoHospitalar.Tela.dll
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Console\obj\Debug\net6.0\GestaoHospitalar.Tela.pdb
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Console\obj\Debug\net6.0\GestaoHospitalar.Tela.genruntimeconfig.cache
+c:\Users\Sartor\OneDrive\Área de Trabalho\GestaoHospitalar\GestaoHospilar.Console\obj\Debug\net6.0\ref\GestaoHospitalar.Tela.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Console\bin\Debug\net6.0\GestaoHospitalar.Tela.exe
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Console\bin\Debug\net6.0\GestaoHospitalar.Tela.deps.json
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Console\bin\Debug\net6.0\GestaoHospitalar.Tela.runtimeconfig.json
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Console\bin\Debug\net6.0\GestaoHospitalar.Tela.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Console\bin\Debug\net6.0\GestaoHospitalar.Tela.pdb
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Console\bin\Debug\net6.0\GestaoHospilar.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Console\bin\Debug\net6.0\GestaoHospilar.pdb
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Console\obj\Debug\net6.0\GestaoHospitalar.Tela.csproj.AssemblyReference.cache
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Console\obj\Debug\net6.0\GestaoHospitalar.Tela.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Console\obj\Debug\net6.0\GestaoHospitalar.Tela.AssemblyInfoInputs.cache
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Console\obj\Debug\net6.0\GestaoHospitalar.Tela.AssemblyInfo.cs
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Console\obj\Debug\net6.0\GestaoHospitalar.Tela.csproj.CoreCompileInputs.cache
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Console\obj\Debug\net6.0\GestaoHospitalar.Tela.csproj.CopyComplete
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Console\obj\Debug\net6.0\GestaoHospitalar.Tela.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Console\obj\Debug\net6.0\refint\GestaoHospitalar.Tela.dll
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Console\obj\Debug\net6.0\GestaoHospitalar.Tela.pdb
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Console\obj\Debug\net6.0\GestaoHospitalar.Tela.genruntimeconfig.cache
+c:\Users\ramon.wolff\OneDrive - NDD.Tech\Documentos\Trop Tech\M2 Aula 24 - Projeto Revisão - Hospital\GestaoHospitalar - Copia\GestaoHospitalar\GestaoHospilar.Console\obj\Debug\net6.0\ref\GestaoHospitalar.Tela.dll
